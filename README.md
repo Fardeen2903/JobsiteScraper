@@ -3,7 +3,6 @@ simple job website scraper in python
 
 ### `README.md`
 
-```markdown
 JobsiteScraper is a Python-based GUI application for scraping job details from job sites. It allows users to input a URL, extract job details such as titles, categories, number of applicants, and requirements, and display them in a user-friendly interface. The results can also be saved to a file for further analysis.
 
 ---
